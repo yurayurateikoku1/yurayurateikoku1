@@ -2,7 +2,7 @@
 
 # 👋, I'm [yurayurateiikoku]
 
-从事计算机视觉与深度学习，
+从事计算机视觉与深度学习，Qt桌面开发,像素风独立游戏开发
 
 </div>
 
@@ -29,11 +29,13 @@
 **工具 & 平台**
 
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jetson](https://img.shields.io/badge/-Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Rockchip](https://img.shields.io/badge/-Rockchip(瑞芯微)-FF6600?style=flat-square&logo=rockchip&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Rockchip](https://img.shields.io/badge/-Rockchip-FF6600?style=flat-square&logo=rockchip&logoColor=white)
 ---
 
 ## 📊 GitHub 统计
